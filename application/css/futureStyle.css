@@ -1,0 +1,81 @@
+body{
+   background-color: #e9ecef;
+}
+.container.Jumbotron {
+    height: auto;
+}
+.mydashed{
+    border-color:#AFC6DF;
+    border-top-style: dashed;
+    border-top-width: 1px;
+    margin-bottom: 0.5px;
+    height: 5px;
+    
+   /* z-index: 2;
+    *     position: absolute;
+
+    width: 240px;
+    height:30px;
+    margin-top: 5px;
+    border-top: 0px solid #000;
+    background: linear-gradient(60deg, transparent 75%, #AFC6DF 7%),
+                linear-gradient( -60deg, transparent 75%, #AFC6DF 7%) 0 50%;
+   
+    background-size:30px 30px, 30px 30px;*/
+}
+.templateComment{
+    margin-left: 50px;
+}
+.main{
+    margin-top: 15px;
+    border: 1px solid black;
+}
+.headerLeft .footerLeft{
+    display: inline-block;
+}
+.logo img{
+    
+    width: 100px !important;
+    height: 100px !important;
+    margin-top: 0px !importante;
+    
+}
+.logo{
+        margin-left:  90%;
+}
+li{
+    list-style-type: none;
+}
+.comment{
+    margin-top: 25px;
+}
+.myComment{
+    height: 180px;
+}
+
+.form-control{
+    width: 500px;
+}
+.mr-auto{
+    margin-left: 375px;
+}
+header{
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #F9F9F9;
+}
+footer{
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #F9F9F9;
+}
+footer .logo{
+    margin-left: 0px;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+textarea.form-control {
+    height: 150px;
+}
